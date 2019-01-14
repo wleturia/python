@@ -1,0 +1,47 @@
+Python Operators
+---------------------------------
+- Aritmetic Operators
+	- + Addition
+	- - Substraction
+	- * Multiplication
+	- / Division
+	- % Modulus
+	- ** Exponent
+
+- Comparison Operators
+	- > Greater than
+	- < Less than
+	- >= Greater than or equal to
+	- <= Less than or equal to
+	- == Equal to
+	- != Not equal to
+	- <> Not equal to
+
+- Assignment Operators
+	- = Assign Value
+	- += Adds right side value to left side value and assign the result value to left variable
+	- -= Substract right side value from left side value and assign the result to the left variable
+	- *= Multiplies right side value with left side value and assign the result to left variable
+	- /= Divides left side value with right side value and assign the result to left variable
+	- %= Calculates the modulus using two side values and assign the result to left variable
+	- **= Calculates the exponentials using two side values and assign the result to left variable
+
+- Bitwise Operators
+	- & Binary AND 1+1= 1
+	- | Binary OR 0+1 = 1
+	- ^ Binary XOR 1+1= 0
+	- ~ Binary Complement
+	- << Left Shitft
+	- >> Right Shift
+
+- Logical Operators
+	- and Logical And
+	- or Logical Or
+	- not Logical Not
+
+- Membership Operators
+	- in
+	- not in
+	- is
+	- is not
+	

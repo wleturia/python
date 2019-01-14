@@ -1,0 +1,25 @@
+Python Variables
+-------------------------------
+	A variable is a storage location(bucket) or a memory location where your data will be stored
+
+Syntax: 
+	
+	variable_name = "Value"
+
+	Ex:
+		word = "Hello World"
+
+Java
+-------------------------------
+
+int number_variable = 10
+string string_varialbe = "Hello World"
+float float_variable = 100.00
+
+
+Python
+-------------------------------
+integer_variable = 10
+string_variable = "Hello World !"
+float_variable = 120.00
+list_variable = ['a','b','c']
