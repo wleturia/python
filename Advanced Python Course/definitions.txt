@@ -1,0 +1,38 @@
+What's a library?
+- Library is a collection of functionality in form of code wich can be reused.
+
+Implementation of Library
+- Write the class and methods or functions in a python file
+
+if __name__ = '__main__'
+
+
+Library Usage
+- Import the library file which has a class and methods to be used
+- Use the library file name to access the class
+- Have both the files in same directory or environment variable PYTHONPATH set to library path
+
+Library Operationlib
+Create a library for operationn todo the operations backup, restore and update
+
+Design the library
+Library Name - Operationlib
+File Name - Operationlib.py
+
+Class - Operation
+Backup() - to take the backup of data
+Parameters - None
+Return Value - None
+
+Restore () - To restore the software to the previous version
+Parameters - None
+Return value - none
+
+Update() - To update the software to current version
+Paramenters - None
+Return Value - None
+
+Usage -
+import Operationlib
+------------------
+oprObject = Operationlib.Operation()
